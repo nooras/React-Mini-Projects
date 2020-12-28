@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  padding: 150px;
+}
+
+input {
+  padding: 15px;
+  margin: 10px;
+  width: 60%;
+  font-size: larger;
+  border: 3px solid grey;
+  color: red;
+  /* pointer-events: none; */
+}
+
+button{
+  padding: 10px;
+  font-size: larger;
+  font-weight: bolder;
+  border: 3px solid rgb(240, 20, 0);
+  background-color: indianred;
+  color: red;
+}
