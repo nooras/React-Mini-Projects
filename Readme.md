@@ -5,3 +5,4 @@
 3. React Events Click Me (Background Color Change)
 4. React Submit Form
 5. React Complex Submit Form in Simple way
+6. React Slot Machine Game
